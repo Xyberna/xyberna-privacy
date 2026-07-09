@@ -56,4 +56,4 @@ Developer: **XYBERNA**
 
 For privacy-related questions or concerns, please contact:
 
-**your-email@example.com**
+**cyberneticsat.xyberna@gmail.com**
