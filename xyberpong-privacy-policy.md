@@ -57,8 +57,6 @@ This Privacy Policy may be updated when the App's features, third-party services
 For privacy-related questions or requests, contact:
 
 **XYBERNA**  
-Email: [Insert your official privacy contact email]
+Email: cyberneticsat.xyberna@gmail.com
 
 ---
-
-**Important publishing note:** Before publishing this policy, verify it against the exact release build and its SDKs. Remove or change any statement that does not accurately describe the app. Replace the contact-email placeholder with an email address you control, and host this Markdown content at a publicly accessible privacy-policy URL for Google Play Console.
